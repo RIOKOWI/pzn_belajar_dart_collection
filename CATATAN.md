@@ -33,3 +33,7 @@ bin\fixed_list.dart
 
 - list di dart mirip seperti array di bahasa pemrograman lain, untuk mengubah atau mengakses datanya kita menggunakan index
 - di dart juga tersedia collection bernama linked list, ini adalah implementasi dari struktur data double linked list
+
+FOKUS LINKED LIST
+- fokus linked list adalah pada performa penambahan data dan penghapusan data yang cepat, oleh karena ini di linked list tidak terdapat operasi pengubahan data menggunakan index seperti di list
+- linked list juga turunan langsung dari iterable, bukan list
