@@ -37,3 +37,9 @@ bin\fixed_list.dart
 FOKUS LINKED LIST
 - fokus linked list adalah pada performa penambahan data dan penghapusan data yang cepat, oleh karena ini di linked list tidak terdapat operasi pengubahan data menggunakan index seperti di list
 - linked list juga turunan langsung dari iterable, bukan list
+
+LINKED LIST ENTRY
+- node di linked list direpresentasikan dalam class LinkedListEntry
+- oleh karena itu, jika kita ingin membuat Node, kita perlu membuat class turunan LinkedListEntry
+- pada class tersebut sudah disediakan implementasi property next dan prev nya
+
