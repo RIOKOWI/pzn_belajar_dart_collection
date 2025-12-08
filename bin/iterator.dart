@@ -4,4 +4,15 @@ void main(){
   for (var value in names){
     print(value);
   }
+
+  final Iterator = names.iterator;
+
+
+  // iterasi manual
+  Iterator.moveNext();
+  print(Iterator.current);
+  Iterator.moveNext();
+  print(Iterator.current);
+  Iterator.moveNext();
+  print(Iterator.current);
 }
