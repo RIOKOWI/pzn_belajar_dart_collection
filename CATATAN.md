@@ -28,3 +28,8 @@ bin\iterator.dart
 contoh di file :
 bin\list_growable.dart
 bin\fixed_list.dart
+
+## LINKED LIST
+
+- list di dart mirip seperti array di bahasa pemrograman lain, untuk mengubah atau mengakses datanya kita menggunakan index
+- di dart juga tersedia collection bernama linked list, ini adalah implementasi dari struktur data double linked list
