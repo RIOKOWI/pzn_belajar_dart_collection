@@ -10,3 +10,6 @@
 - salah satu fitur di dart yang bisa digunakan untuk melakukan iterasi data, atau mengakses data di iterable satu persatu adalah menggunakan for in
 - jika tipe data memiliki property dengan nama iterator dan tipe iterator, secara otomatis ita bisa menggunakan perluangan for in
 - contohnya di iterable terdapat property iterator, oleh karena itu kita bisa mengakses data di iterable menggunakan for in
+
+contoh di file :
+bin\iterator.dart
