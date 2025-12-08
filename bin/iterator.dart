@@ -7,12 +7,15 @@ void main(){
 
   final Iterator = names.iterator;
 
+  while(Iterator.moveNext()) {
+    print(Iterator.current);
+  }
 
   // iterasi manual
-  Iterator.moveNext();
-  print(Iterator.current);
-  Iterator.moveNext();
-  print(Iterator.current);
-  Iterator.moveNext();
-  print(Iterator.current);
+  // Iterator.moveNext();
+  // print(Iterator.current);
+  // Iterator.moveNext();
+  // print(Iterator.current);
+  // Iterator.moveNext();
+  // print(Iterator.current);
 }
