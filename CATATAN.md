@@ -27,3 +27,4 @@ bin\iterator.dart
 
 contoh di file :
 bin\list_growable.dart
+bin\fixed_list.dart
