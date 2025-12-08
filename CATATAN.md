@@ -26,3 +26,4 @@ bin\iterator.dart
 - saat membuat List, kita bisa buat dengan ukura fix(tidak bisa berubah), atau bisa bertambah secara otomatis seiring penambahan data ke List(growable)
 
 contoh di file :
+bin\list_growable.dart
