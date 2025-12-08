@@ -43,3 +43,6 @@ LINKED LIST ENTRY
 - oleh karena itu, jika kita ingin membuat Node, kita perlu membuat class turunan LinkedListEntry
 - pada class tersebut sudah disediakan implementasi property next dan prev nya
 
+contoh di file :
+bin\linked_list.dart
+
