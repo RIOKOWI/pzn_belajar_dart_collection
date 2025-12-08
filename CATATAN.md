@@ -18,3 +18,11 @@ ITERASI MANUAL
 
 contoh di file :
 bin\iterator.dart
+
+## LIST
+
+- list adalah tipe data yang berisikan kumpulan data yang memiliki index angka
+- tipe data List sudah kita bahas di materi Dart Dasar
+- saat membuat List, kita bisa buat dengan ukura fix(tidak bisa berubah), atau bisa bertambah secara otomatis seiring penambahan data ke List(growable)
+
+contoh di file :
