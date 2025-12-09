@@ -67,3 +67,4 @@ LINKED HASH SET
 - hal ini menjadikan, urutan data di set sesuai dengan urutan ketika kita memasukkan data ke set
 
 contoh di file :
+bin\linked_hash_set.dart
