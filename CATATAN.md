@@ -76,3 +76,12 @@ bin\linked_hash_set.dart
 - Hash Set membuat proses insert data menjadi cepat karena tidak perlu melakukan pengecekan satu per satu di double linked list, cukup langsung menggunakan hash code
 
 contoh di file :
+bin\hash_set.dart
+
+## SPLAY TREE SET
+
+- Splay tree set merupakan implementasi dari set yang menggunakan struktur data tree
+- hal ini menyebabkan data di splay tree set akan secara otomatis berurut sesuai comparator nya, defaultnya adalah ascending
+
+contoh di file :
+
