@@ -123,3 +123,11 @@ LIST QUEUE
 
 contoh di file :
 bin\queue.dart
+
+## DOUBLE LINKED QUEUE
+
+- Double linked queue merupakan implementasi dari queue dengan struktur data double linked list
+- sebenarnya penggunaan double linked queue sangat cocok untuk queue, karena struktur data double linked list sangat cepat untuk modifikasi data di awal dan akhir, sehingga cocok untuk Queue ataupun stack
+
+contoh di file :
+bin\double_linked_queue.dart
