@@ -138,3 +138,11 @@ bin\double_linked_queue.dart
 - iterable memiliki beberapa method untuk melakukan pengecekan data
 
 contoh di file :
+bin\check_method.dart
+
+## FILTER METHOD
+
+- iterable juga memiliki banyak sekali method untuk melakukan filtering data yang terdapat di iterable
+
+contoh di file :
+bin\filter_method.dart
