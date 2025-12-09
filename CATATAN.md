@@ -60,3 +60,10 @@ bin\unmodifiable_list.dart
 SET
 - set sudah pernah dibahas di materi dart dasar
 - set adalah collection yang berisikan kumpulan data unique, ketika kita menambahkan data yang sudah ada, maka otomatis data tersebut akan diabaikan
+
+LINKED HASH SET
+- saat kita membut set, implementasi default dari set sendiri adalah class LinkedHashSet
+- seperti terlihat dari namanya, LinkedHashSet menggunakan struktur data double linked list sebagai implementasinya
+- hal ini menjadikan, urutan data di set sesuai dengan urutan ketika kita memasukkan data ke set
+
+contoh di file :
