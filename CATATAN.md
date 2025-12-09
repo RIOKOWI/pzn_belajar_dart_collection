@@ -131,3 +131,10 @@ bin\queue.dart
 
 contoh di file :
 bin\double_linked_queue.dart
+
+## CHECK METHOD
+
+- salah satu yang biasa kita lakukan saat menggunakan collection (List, Set, Queue dan lain-lain) adalah melakukan pengecekan data
+- iterable memiliki beberapa method untuk melakukan pengecekan data
+
+contoh di file :
