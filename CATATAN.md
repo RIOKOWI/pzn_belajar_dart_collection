@@ -146,3 +146,9 @@ bin\check_method.dart
 
 contoh di file :
 bin\filter_method.dart
+
+## TRANSFORM METHOD
+
+- iterable juga memiliki method untuk melakukan transformasi (mengubah) data menjadi data baru
+
+contoh di file :
