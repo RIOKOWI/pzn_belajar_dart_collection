@@ -51,3 +51,12 @@ bin\linked_list.dart
 - collection list, walaupun kita buat dalam bentuk fix atau growable, data di dalam list, tetap bisa kita modifikasi
 - Dart menyediakan collection bernama Unmodifiable list, yaitu list yang setelah dibuat, data di dalamnya tidak bisa diubah lagi
 - cara menggunakan unmodifiable list adalah dengan cara membungkus list yang sudah kita buat sebelumnya dengn unmodifiable list
+
+contoh di file :
+bin\unmodifiable_list.dart
+
+## LINKED HASH SET
+
+SET
+- set sudah pernah dibahas di materi dart dasar
+- set adalah collection yang berisikan kumpulan data unique, ketika kita menambahkan data yang sudah ada, maka otomatis data tersebut akan diabaikan
