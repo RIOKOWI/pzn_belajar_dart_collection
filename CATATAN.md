@@ -93,3 +93,4 @@ bin\splay_tree_set.dart
 - bagaimana jika kita ingin membut class sendiri? secara default, class kita tidak bisa diurutkan datanya oleh SplayTreeSet, kita wajib implement kontrak Comparable
 
 contoh di file :
+bin\comparable.dart
