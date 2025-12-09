@@ -46,3 +46,8 @@ LINKED LIST ENTRY
 contoh di file :
 bin\linked_list.dart
 
+## UNMODIFIABLE LIST
+
+- collection list, walaupun kita buat dalam bentuk fix atau growable, data di dalam list, tetap bisa kita modifikasi
+- Dart menyediakan collection bernama Unmodifiable list, yaitu list yang setelah dibuat, data di dalamnya tidak bisa diubah lagi
+- cara menggunakan unmodifiable list adalah dengan cara membungkus list yang sudah kita buat sebelumnya dengn unmodifiable list
