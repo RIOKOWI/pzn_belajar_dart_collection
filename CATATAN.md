@@ -85,3 +85,11 @@ bin\hash_set.dart
 
 contoh di file :
 bin\splay_tree_set.dart
+
+## COMPARABLE
+
+- comparabble adalah sebuah kontrak yang digunakan untuk membuat tipe data yang bisa di urutkan
+- hampir semua tipe data di dart implement kontrak comparable, seperti number, string, boolean, dll, oleh karena itu, data-data tersebut bisa diurutkan secara otomatis ketika menggunakan SplayTreeSet misalnya 
+- bagaimana jika kita ingin membut class sendiri? secara default, class kita tidak bisa diurutkan datanya oleh SplayTreeSet, kita wajib implement kontrak Comparable
+
+contoh di file :
