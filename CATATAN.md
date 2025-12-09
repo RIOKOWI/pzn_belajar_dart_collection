@@ -99,7 +99,7 @@ bin\comparable.dart
 
 - secara default, ketika mengurutkan data, SplayTreeSet akan menggunakan Comparable yang terdapat pada data nya
 - bagaimana jika kita ingin memodifikasi car melakukan pengurutan data nya? tapi tidak mau mengubah class data tersebut? atau bahkan tidak bisa mengubahnya, seperti tipe data number, boolean, String dan lain-lain
-- Pada kasus ini, kita bisa membuat comparable, yaitu function yang bisa kita gunakan untuk menentukan cara melakukan pengurutan data
+- Pada kasus ini, kita bisa membuat comparator, yaitu function yang bisa kita gunakan untuk menentukan cara melakukan pengurutan data
 
 contoh di file :
 bin\comparator.dart
@@ -122,3 +122,4 @@ LIST QUEUE
 - saat kita membbuat object queue, sebenarnya kita membuat list queue
 
 contoh di file :
+bin\queue.dart
