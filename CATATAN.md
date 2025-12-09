@@ -110,3 +110,11 @@ bin\comparator.dart
 
 contoh di file :
 bin\unmodifiable_set.dart
+
+## LIST QUEUE
+
+QUEUE
+- Queue adalah collection implementasi dan struktur data stack (tumpukan) atau Queue (antrian)
+- Queue mirip seperti List, namun yang membedakan, pada Queue, modifikasi data bisa dilakukan di depan (HEAD) atau di belakang (TAIL).
+
+contoh di file :
