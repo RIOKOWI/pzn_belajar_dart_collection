@@ -68,3 +68,9 @@ LINKED HASH SET
 
 contoh di file :
 bin\linked_hash_set.dart
+
+## HASH SET
+
+- Hash Set adalah implementai Set yang tidak menggunakan struktur data double linked list
+- hal ini menyebabkan urutan di Hash set tidak tentu, karena tergantung dari hash code data yang kita masukan
+- Hash Set membuat proses insert data menjadi cepat karena tidak perlu melakukan pengecekan satu per satu di double linked list, cukup langsung menggunakan hash code
