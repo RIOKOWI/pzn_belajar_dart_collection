@@ -117,4 +117,8 @@ QUEUE
 - Queue adalah collection implementasi dan struktur data stack (tumpukan) atau Queue (antrian)
 - Queue mirip seperti List, namun yang membedakan, pada Queue, modifikasi data bisa dilakukan di depan (HEAD) atau di belakang (TAIL).
 
+LIST QUEUE
+- list queue merupakan implemntasi default dari queue di dart
+- saat kita membbuat object queue, sebenarnya kita membuat list queue
+
 contoh di file :
