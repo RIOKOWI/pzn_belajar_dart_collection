@@ -102,3 +102,4 @@ bin\comparable.dart
 - Pada kasus ini, kita bisa membuat comparable, yaitu function yang bisa kita gunakan untuk menentukan cara melakukan pengurutan data
 
 contoh di file :
+bin\comparator.dart
