@@ -152,3 +152,4 @@ bin\filter_method.dart
 - iterable juga memiliki method untuk melakukan transformasi (mengubah) data menjadi data baru
 
 contoh di file :
+bin\transform_method.dart
