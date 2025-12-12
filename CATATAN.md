@@ -167,3 +167,4 @@ bin\convert_method.dart
 - iterable juga memiliki banyak sekali property yang bisa kita gunakan untuk mendapatkan informasi dan data dari iterable
 
 contoh di file :
+bin\iterable_properties.dart
