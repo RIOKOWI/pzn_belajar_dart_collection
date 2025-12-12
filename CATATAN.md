@@ -203,3 +203,6 @@ bin\map.dart
 - map sendiri bukanlah turunan dari iterable, oleh karena itu secara default tidak bisa di iterasi menggunakan perulangan for
 - namun, Map memiliki property bernama entries, yang mengembalikan iterable berisi MapEntry
 - MapEntry adalah gabungan antara satu buah Key + Value
+
+conroh di file :
+bin\map_entry.dart
