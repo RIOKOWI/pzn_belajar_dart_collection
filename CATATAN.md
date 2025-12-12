@@ -196,3 +196,4 @@ bin\set_method.dart
 - detail tentang Map sudah kita bahas di materi dart dasar
 
 contoh di file :
+bin\map.dart
