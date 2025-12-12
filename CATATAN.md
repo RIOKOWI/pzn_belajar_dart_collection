@@ -223,3 +223,10 @@ bin\hash_map.dart
 
 contoh di file :
 bin\linked_hash_map.dart
+
+## SPLAY TREE MAP
+
+- Splay Tree Map merupakan implementasi dari Map yang menggunakan struktur data Tree
+- Data di Splay Tree Map secara otomatis akan berurut sesuai dengan data nya, atau bisa menggunakan comparator, mirip dengan Splay Tree Set
+
+contoh di file :
