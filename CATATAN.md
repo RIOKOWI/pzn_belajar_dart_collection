@@ -222,3 +222,4 @@ bin\hash_map.dart
 - Linked Hash Map merupakan default implementasi untuk Map
 
 contoh di file :
+bin\linked_hash_map.dart
