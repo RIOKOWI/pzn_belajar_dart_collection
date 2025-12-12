@@ -230,3 +230,4 @@ bin\linked_hash_map.dart
 - Data di Splay Tree Map secara otomatis akan berurut sesuai dengan data nya, atau bisa menggunakan comparator, mirip dengan Splay Tree Set
 
 contoh di file :
+bin\splay_tree_map.dart
