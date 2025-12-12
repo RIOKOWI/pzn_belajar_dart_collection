@@ -168,3 +168,10 @@ bin\convert_method.dart
 
 contoh di file :
 bin\iterable_properties.dart
+
+## LIST METHOD
+
+- List dan Set karena turunan dari iterable, secara otomatis dapat menggunakan semua method di iterable
+- Namun karena sifat dari List dan Set itu berbeda, List sendiri memiliki method lain yang khusus untuk List
+
+contoh di file :
