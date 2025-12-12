@@ -180,3 +180,9 @@ LIST OPERATOR
 contoh di file :
 bin\list_method.dart
 bin\list_operator.dart
+
+## SET METHOD
+
+- selain List, Set juga memiliki method yang spesial terdapat di Set
+
+contoh di file :
