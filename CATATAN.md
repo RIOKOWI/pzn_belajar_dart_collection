@@ -175,3 +175,4 @@ bin\iterable_properties.dart
 - Namun karena sifat dari List dan Set itu berbeda, List sendiri memiliki method lain yang khusus untuk List
 
 contoh di file :
+bin\list_method.dart
