@@ -160,3 +160,10 @@ bin\transform_method.dart
 
 contoh di file :
 bin\convert_method.dart
+
+## ITERABLE PROPERTIES
+
+- selai banyak sekali method yang dimiliki oleh iterable
+- iterable juga memiliki banyak sekali property yang bisa kita gunakan untuk mendapatkan informasi dan data dari iterable
+
+contoh di file :
