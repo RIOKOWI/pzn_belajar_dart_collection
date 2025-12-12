@@ -159,3 +159,4 @@ bin\transform_method.dart
 - iterable juga memeiliki-method yang bisa digunakan untuk melakukan konversi tipe data collection menjadi tipe data lain.
 
 contoh di file :
+bin\convert_method.dart
