@@ -213,3 +213,4 @@ bin\map_entry.dart
 - sama seperti Hash Set, urutan key pada Hash Map tidak bisa di jamin berurut
 
 contoh di file :
+bin\hash_map.dart
