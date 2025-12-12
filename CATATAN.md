@@ -187,3 +187,12 @@ bin\list_operator.dart
 
 contoh di file :
 bin\set_method.dart
+
+## MAP 
+
+- map sebenarnya mirip dengan tipe data List, dimana memiliki index dan value
+- hanya saja, berbeda dengan List, pada Map, kita bisa menentukan data index dengan tipe data dan data index sesuai yang kita mau
+- di Map, index disebut dengan key
+- detail tentang Map sudah kita bahas di materi dart dasar
+
+contoh di file :
