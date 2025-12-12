@@ -174,5 +174,9 @@ bin\iterable_properties.dart
 - List dan Set karena turunan dari iterable, secara otomatis dapat menggunakan semua method di iterable
 - Namun karena sifat dari List dan Set itu berbeda, List sendiri memiliki method lain yang khusus untuk List
 
+LIST OPERATOR
+- selain method, list juga memiliki operator
+
 contoh di file :
 bin\list_method.dart
+bin\list_operator.dart
