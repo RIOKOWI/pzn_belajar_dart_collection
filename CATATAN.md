@@ -186,3 +186,4 @@ bin\list_operator.dart
 - selain List, Set juga memiliki method yang spesial terdapat di Set
 
 contoh di file :
+bin\set_method.dart
