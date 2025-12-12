@@ -231,3 +231,11 @@ bin\linked_hash_map.dart
 
 contoh di file :
 bin\splay_tree_map.dart
+
+## UNMODIFIABLE MAP
+
+- unmodifiable map merupaka implementasi Map yang tidak bisa diubah lagi
+- cara penggunaannya adalah membungkus Map yang sudah ada, dengan Unmodifiable Map, sehinggan tidak bisa dimodifikasi lagi
+
+contoh di file :
+bin\unmodifiable_map.dart
