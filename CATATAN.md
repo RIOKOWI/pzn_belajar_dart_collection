@@ -214,3 +214,11 @@ bin\map_entry.dart
 
 contoh di file :
 bin\hash_map.dart
+
+## LINKED HASH MAP
+
+- linked hash map merupakan implementasi dari Map yang menggunakan struktur data Double Linked List
+- Hal ini menjadikan Linked Hash Map datanya terurut sesuai dengan urutan kita memasukkan data ke Linked Hash Map
+- Linked Hash Map merupakan default implementasi untuk Map
+
+contoh di file :
