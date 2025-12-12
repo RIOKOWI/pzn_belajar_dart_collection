@@ -206,3 +206,10 @@ bin\map.dart
 
 conroh di file :
 bin\map_entry.dart
+
+## HASH MAP
+
+- Hash Map merupakan implementasi dari Map yang tidak menggunakan struktur data double linked list
+- sama seperti Hash Set, urutan key pada Hash Map tidak bisa di jamin berurut
+
+contoh di file :
